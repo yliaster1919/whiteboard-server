@@ -1,7 +1,7 @@
 {
   "name": "whiteboard-server",
   "version": "1.0.0",
-  "description": "Pusher authentication service for whitboard communication",
+  "description": "Pusher authentication service for whiteboard communication",
   "author": "",
   "license": "ISC",
   "dependencies": {
